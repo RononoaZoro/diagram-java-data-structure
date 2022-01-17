@@ -1,0 +1,16 @@
+# Project exclude paths
+/out/### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.classpath
+/bin
+.project
+.metadata
+*.log
+*.class
+/out
